@@ -1,7 +1,7 @@
 
   # Flooring Calculator Redesign
 
-  This is a code bundle for Flooring Calculator Redesign. The original project is available at https://www.figma.com/design/qq0dJKYPlkZB7EVHJBTXTP/Flooring-Calculator-Redesign.
+  This is a code bundle for Flooring Calculator Redesign. The original project is available at https://foam-minus-33627333.figma.site/
 
   ## Running the code
 
